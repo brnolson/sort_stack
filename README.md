@@ -18,6 +18,7 @@ Your task is to implement the `mainSort()` function in `sort_stack.py`. This fun
 1. Loop through each PPA and assign leaders to members.
 2. Ensure leaders are not repeatedly assigned to the same members.
 3. Select leaders with the fewest prior interactions with a member (or other leader) to ensure diverse assignments.
+4. Ensure method is well documented to ensure this routine's longevity
 
 The function could follow this basic structure:
 
